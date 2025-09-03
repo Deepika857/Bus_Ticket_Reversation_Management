@@ -55,8 +55,11 @@ Node.js and npm or yarn installed
 **Backend Setup**
 
 spring.datasource.url=jdbc:mysql://localhost:3306/my_bus_db
+
 spring.datasource.username=root
+
 spring.datasource.password=yourpassword
+
 Build and run backend:
 
 bash
