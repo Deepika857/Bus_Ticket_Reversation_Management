@@ -11,7 +11,7 @@ User Authentication: JWT-based login and secure API endpoints.
 
 Bus Management: Admin can manage buses, routes, trips.
 
-Booking System: Customers can select seats, book tickets, and make payments.
+Booking System: Customers can select seats, book tickets.
 
 Booking Management: Admin dashboard to view, filter, update booking status.
 
