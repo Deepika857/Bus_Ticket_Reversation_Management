@@ -52,14 +52,7 @@ MySQL database
 Node.js and npm or yarn installed
 
 **Backend Setup**
-Clone repository:
 
-bash
-git clone https://github.com/yourusername/bus-reservation.git
-cd bus-reservation/backend
-Configure MySQL database connection in src/main/resources/application.properties:
-
-text
 spring.datasource.url=jdbc:mysql://localhost:3306/my_bus_db
 spring.datasource.username=root
 spring.datasource.password=yourpassword
