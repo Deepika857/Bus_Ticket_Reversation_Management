@@ -1,7 +1,9 @@
 **Bus Reservation System**
+
 A full-stack bus reservation application built with Spring Boot (backend) and React.js (frontend), featuring user authentication, bus/trip management, booking functionality, and an admin dashboard.
 
 **Features**
+
 User Roles: Customer and Admin with role-based access.
 
 User Authentication: JWT-based login and secure API endpoints.
@@ -21,6 +23,7 @@ Secure: Authorization checks on sensitive endpoints.
 Responsive frontend built with React and Bootstrap.
 
 **Project Structure**
+
 **Backend:**
 
 Spring Boot with JPA/Hibernate, MySQL database.
@@ -40,6 +43,7 @@ Axios for API calls with JWT token support.
 Bootstrap for styling and responsive layout.
 
 **Getting Started**
+
 **Prerequisites**
 Java 17+ and Maven installed
 
@@ -80,6 +84,7 @@ npm start
 Open browser to http://localhost:3000
 
 **Technologies Used**
+
 Spring Boot, Spring Security, JWT, Hibernate
 
 MySQL
