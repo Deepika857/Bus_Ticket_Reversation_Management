@@ -1,5 +1,6 @@
 **Bus Reservation System**
 
+
 A full-stack bus reservation application built with Spring Boot (backend) and React.js (frontend), featuring user authentication, bus/trip management, booking functionality, and an admin dashboard.
 
 **Features**
